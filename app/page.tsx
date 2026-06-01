@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Rooms from "@/components/Rooms";
 import Amenities from "@/components/Amenities";
 import Packages from "@/components/Packages";
+import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
         <Rooms />
         <Amenities />
         <Packages />
+        <Contact />
       </main>
       <Footer />
     </>
