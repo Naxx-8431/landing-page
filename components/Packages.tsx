@@ -102,7 +102,7 @@ export default function Packages() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
 
               {/* Location badge */}
-              <span className="absolute left-4 top-4 z-10 rounded-full bg-transparent/90 px-3 py-1.5 text-[11px] font-bold uppercase tracking-wider text-dark">
+              <span className="absolute left-4 top-4 z-10 rounded-full bg-transparent/90 px-3 py-1.5 text-[11px] font-bold uppercase tracking-wider text-light">
                 {pkg.location}
               </span>
 
